@@ -1,0 +1,206 @@
+<!-- /page content start -->
+
+
+<div class="right_col" role="main">
+  <div class="container">
+    <div class="row">
+      <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-xs-12 text-center">
+        <div class="card cust_card">
+          <div class="content profile_div">
+            <div class="profile_pic">
+              <img src="images/img.jpg" alt="..." height="190" width="167.25">
+            </div>
+          </div>
+          <div class="pro_name text-center">
+            <span>John Doe</span><br>
+         </div>
+
+        </div><br>
+        <div class="card cust_card help">
+          <div class="content">
+            <i class="fa fa-comments-o" aria-hidden="true"></i><br>
+            <span style="font-weight: 500;">Need help?</span><br>
+            <span class="help_exp">Have questions or concerns regarding this account? Our experts are here to help</span><br>
+            <button class="butt">Chat with us</button>
+          </div>
+        </div>
+      </div>
+      <div class="col-xl-9 col-lg-9 col-md-9 col-sm-12 col-xs-12">
+        <div class="card cust_detais">
+          <div class="content">
+            <div class="row personal_det_head_div">
+              <div class="col-md-8 text-left">
+                <h4>Basic Details</h4>
+              </div>
+              <div class="col-md-4 text-right">
+            </div>
+            </div>
+            <div class="col-md-12">
+              <div class="col-md-4 text-right">
+                <span>Blood Group</span>
+              </div>
+              <div class="col-md-8 text-left">
+                <span>AB+</span>
+              </div>
+              <div class="col-md-4 text-right">
+                <span>Height</span>
+              </div>
+              <div class="col-md-8 text-left">
+                <span>179 cm</span>
+              </div>
+              <div class="col-md-4 text-right">
+                <span>Weight</span>
+              </div>
+              <div class="col-md-8 text-left">
+                <span>74 kg</span><br>
+
+              </div>
+            </div>
+          </div>
+
+        </div><br>
+        <div class="card settings">
+          <div class="content">
+            <div class="row personal_det_head_div">
+              <div class="col-md-8 text-left">
+                <h4>Allergies</h4>
+              </div>
+              <div class="col-md-4 text-right">
+      </div>
+            </div>
+            <div class="col-md-12">
+              <div class="col-md-4 text-right">
+                <span>Name</span>
+              </div>
+              <div class="col-md-8 text-left">
+                <span>Eczema</span>
+              </div>
+              <div class="col-md-4 text-right">
+                <span>Adverse Reactions</span>
+              </div>
+              <div class="col-md-8 text-left">
+                <span>Rashes,Itching</span>
+              </div>
+              <div class="col-md-4 text-right">
+                <span>Immunization</span>
+              </div>
+              <div class="col-md-8 text-left">
+                <span>Dupilumab</span>
+              </div>
+              <div class="col-md-4 text-right">
+                <span>Drug Allergies</span>
+              </div>
+              <div class="col-md-8 text-left">
+                <span>Sulfa drugs</span>
+              </div>
+              <div class="col-md-4 text-right">
+                <span>Allergens</span>
+              </div>
+              <div class="col-md-8 text-left">
+                <span>Peanut,pollen</span>
+              </div>
+            </div>
+          </div>
+
+        </div><br>
+        <div class="card settings">
+          <div class="content">
+            <div class="row personal_det_head_div">
+              <div class="col-md-8 text-left">
+                <h4>Ongoing Medication</h4>
+              </div>
+              <div class="col-md-4 text-right">
+        </div>
+            </div>
+            <div class="col-md-12">
+              <div class="col-md-4 text-right">
+                <span>Disease</span>
+              </div>
+              <div class="col-md-8 text-left">
+                <span>Cerebral Venous Thrombosis</span>
+              </div>
+              <div class="col-md-4 text-right">
+                <span>Medicine Taken</span>
+              </div>
+              <div class="col-md-8 text-left">
+                <span>Heparin</span>
+              </div>
+              <div class="col-md-4 text-right">
+                <span>Dosage</span>
+              </div>
+              <div class="col-md-8 text-left">
+                <span>20 units/hour</span>
+              </div>
+              <div class="col-md-4 text-right">
+                <span>Duration</span>
+              </div>
+              <div class="col-md-8 text-left">
+                <span>3 months</span>
+              </div>
+              <div class="col-md-4 text-right">
+                <span>Date</span>
+              </div>
+              <div class="col-md-8 text-left">
+                <span>19/11/2020</span>
+              </div>
+            </div>
+          </div>
+
+        </div><br>
+        <div class="card email">
+          <div class="content">
+            <div class="row personal_det_head_div">
+              <div class="col-md-8 text-left">
+                <h4>Consulting Doctor</h4>
+              </div>
+              <div class="col-md-4 text-right">
+            </div>
+            </div>
+            <div class="col-md-12">
+              <div class="col-md-4 text-right">
+                <span>Name</span>
+              </div>
+              <div class="col-md-8 text-left">
+                <span>Dr.Mary philip</span>
+              </div>
+              <div class="col-md-4 text-right">
+                <span>Hospital</span>
+              </div>
+              <div class="col-md-8 text-left">
+                <span>Trinity Hospital,Hsuty</span>
+              </div>
+              <div class="col-md-4 text-right">
+                <span>Email ID(primary)</span>
+              </div>
+              <div class="col-md-8 text-left">
+                <span>mary@gmail.com</span>
+              </div>
+            </div>
+          </div>
+        </div><br>
+        <div class="card phone">
+          <div class="content">
+            <div class="row personal_det_head_div">
+              <div class="col-md-8 text-left">
+                <h4>Remarks</h4>
+              </div>
+              <div class="col-md-4 text-right">
+             </div>
+            </div>
+            <div class="col-md-12">
+              <div class="col-md-4 text-right">
+                <span>Check up after 3 months</span>
+              </div>
+              <div class="col-md-8 text-left">
+                <span>Nil</span>
+              </div>
+          </div>
+        </div>
+      </div><br>
+    </div>
+  </div>
+</div>
+</div>
+
+
+  <!-- /page content ends -->
