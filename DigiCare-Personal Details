@@ -1,0 +1,140 @@
+<!-- /page content start -->
+
+  <div class="right_col" role="main">
+    <div class="container">
+      <div class="row">
+        <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-xs-12 text-center">
+          <div class="card cust_card">
+            <div class="content profile_div">
+              <div class="profile_pic">
+                <img src="images/img.jpg" alt="..." height="190" width="167.25">
+              </div>
+            </div>
+            <div class="pro_name text-center">
+              <span>John Doe</span><br>
+           </div>
+
+          </div><br>
+
+          <div class="card cust_card help">
+            <div class="content">
+              <i class="fa fa-comments-o" aria-hidden="true"></i><br>
+              <span style="font-weight: 500;">Need help?</span><br>
+              <span class="help_exp">Have questions or concerns regarding this account? Our experts are here to help</span><br>
+              <button class="butt">Chat with us</button>
+            </div>
+          </div>
+        </div>
+        <div class="col-xl-9 col-lg-9 col-md-9 col-sm-12 col-xs-12">
+          <div class="card cust_detais">
+            <div class="content">
+              <div class="row personal_det_head_div">
+                <div class="col-md-8 text-left">
+                  <h4>Personal Details</h4>
+                </div>
+                <div class="col-md-4 text-right">
+             </div>
+              </div>
+              <div class="col-md-12">
+                <div class="col-md-4 text-right">
+                  <span>Name</span>
+                </div>
+                <div class="col-md-8 text-left">
+                  <span>John Doe</span>
+                </div>
+                <div class="col-md-4 text-right">
+                  <span>Date of Birth</span>
+                </div>
+                <div class="col-md-8 text-left">
+                  <span>20-10-1985</span>
+                </div>
+                <div class="col-md-4 text-right">
+                  <span>Address</span>
+                </div>
+                <div class="col-md-8 text-left">
+                  <span>01/23 2nd floor</span><br>
+                  <span>def street</span><br>
+                  <span>Abc dist</span><br>
+                  <span>United States</span>
+                </div>
+              </div>
+            </div>
+
+          </div><br>
+          <div class="card settings">
+            <div class="content">
+              <div class="row personal_det_head_div">
+                <div class="col-md-8 text-left">
+                  <h4>Emergency Contacts</h4>
+                </div>
+                <div class="col-md-4 text-right">
+             </div>
+              </div>
+              <div class="col-md-12">
+                <div class="col-md-4 text-right">
+                  <span>Name</span>
+                </div>
+                <div class="col-md-8 text-left">
+                  <span>Smith Rhodes</span>
+                </div>
+                <div class="col-md-4 text-right">
+                  <span>Relation</span>
+                </div>
+                <div class="col-md-8 text-left">
+                  <span>Nephew</span>
+                </div>
+                <div class="col-md-4 text-right">
+                  <span>Phone number</span>
+                </div>
+                <div class="col-md-8 text-left">
+                  <span>8897567765</span>
+                </div>
+              </div>
+            </div>
+
+          </div><br>
+          <div class="card email">
+            <div class="content">
+              <div class="row personal_det_head_div">
+                <div class="col-md-8 text-left">
+                  <h4>Email Address</h4>
+                </div>
+                <div class="col-md-4 text-right">
+              </div>
+              </div>
+              <div class="col-md-12">
+                <div class="col-md-4 text-right">
+                  <span>Email ID(primary)</span>
+                </div>
+                <div class="col-md-8 text-left">
+                  <span>john@gmail.com</span>
+                </div>
+              </div>
+            </div>
+          </div><br>
+          <div class="card phone">
+            <div class="content">
+              <div class="row personal_det_head_div">
+                <div class="col-md-8 text-left">
+                  <h4>Phone</h4>
+                </div>
+                <div class="col-md-4 text-right">
+              </div>
+              </div>
+              <div class="col-md-12">
+                <div class="col-md-4 text-right">
+                  <span>Mobile(primary)</span>
+                </div>
+                <div class="col-md-8 text-left">
+                  <span>8897567493</span>
+                </div>
+            </div>
+          </div>
+        </div><br>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- /page content ends -->
