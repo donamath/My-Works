@@ -1,6 +1,5 @@
-# My-Works
-This includes mainly the web pages I have created.
-## DigiCare
+
+# DigiCare
 
 ### Personal Details
 ![image](https://user-images.githubusercontent.com/50779354/106741520-ce00d300-6641-11eb-898d-7a2c8bc67031.png)
