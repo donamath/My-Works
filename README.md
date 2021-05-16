@@ -9,3 +9,6 @@
 
 ### Medical Records
 ![image](https://user-images.githubusercontent.com/50779354/106741099-45823280-6641-11eb-8599-253ae31d280b.png)
+
+# How It Works Page
+![image](https://user-images.githubusercontent.com/50779354/118389282-d4dab100-b646-11eb-8af0-c92916ac236e.png)
